@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/obj/Debug/net8.0/compressed/42vjm5ti9g.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/obj/Debug/net8.0/scopedcss/bundle/_Client.styles.css",
+      "PackagePath": "staticwebassets/_Client.styles.css"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/s623/Media/Projects/Proj/_Client/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild._Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build._Client.props",
+      "PackagePath": "build\\_Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting._Client.props",
+      "PackagePath": "buildMultiTargeting\\_Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive._Client.props",
+      "PackagePath": "buildTransitive\\_Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
